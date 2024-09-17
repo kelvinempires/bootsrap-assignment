@@ -55,6 +55,13 @@ h6 {
   .img,
   .textDiv {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
+  .image{
+    width: 158px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+  }
+
 }
